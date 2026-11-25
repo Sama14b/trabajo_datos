@@ -1,0 +1,11 @@
+# Librerías de Python del proyecto
+# Instalación: pip install -r requirements.txt
+# Pentaho Data Integration y MySQL se instalan aparte (ver README).
+
+# Apartado 5: tripletas schema.org, validación con SPARQL y consulta a Wikidata
+rdflib>=7.0
+SPARQLWrapper>=2.0
+
+# Apartado 6: lectura de los CSV limpios y visualizaciones
+pandas>=2.0
+plotly>=5.0
